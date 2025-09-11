@@ -17,7 +17,7 @@
 ### SQL
 | Link | Completion Date | Libraries/Tools | Project Description |
 | ---- | ----------------| ----------------| ------------------- |
-| Voter Demographics | June 2025 | | |
+| [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/FinalProject_1.3.sql) | June 2025 | | |
 
 ### Python
 | Link | Completion Date | Libraries/Tools | Project Description |
