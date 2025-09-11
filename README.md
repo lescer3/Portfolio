@@ -22,5 +22,5 @@
 ### Python
 | Link | Completion Date | Libraries/Tools | Project Description |
 | ---- | ----------------| ----------------| ------------------- |
-| Voter Demographics | June 2025 | | |
+| [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/Python/Final_Project%20(1).ipynb) | June 2025 | | |
 | [🍿🎬 Movie Recommender System](https://github.com/lescer3/Pstat134-Movie-Recommender-System/blob/main/results/Movie%20Recommender%20System%20Project.pdf) | March 2025 | numpy, pandas, matplotlib, seaborn| |
