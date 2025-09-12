@@ -6,7 +6,7 @@
 ## Table of Contents
 - [R](https://github.com/lescer3/Portfolio/blob/main/README.md#r)
 - [SQL](https://github.com/lescer3/Portfolio/blob/main/README.md#sql)
-- [Python]([url](https://github.com/lescer3/Portfolio/blob/main/README.md#Python)) 
+- [Python](https://github.com/lescer3/Portfolio/blob/main/README.md#Python) 
 
 ### R
 | Link | Completion Date | Libraries/Tools | Project Description |
