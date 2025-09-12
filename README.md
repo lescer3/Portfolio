@@ -4,9 +4,15 @@
 [Picture Link](https://www.istockphoto.com/illustrations/woman-computer)
 
 ## Table of Contents
+- [Python](https://github.com/lescer3/Portfolio/blob/main/README.md#Python) 
 - [R](https://github.com/lescer3/Portfolio/blob/main/README.md#r)
 - [SQL](https://github.com/lescer3/Portfolio/blob/main/README.md#sql)
-- [Python](https://github.com/lescer3/Portfolio/blob/main/README.md#Python) 
+
+### Python
+| Link | Completion Date | Libraries/Tools | Project Description |
+| ---- | ----------------| ----------------| ------------------- |
+| [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/Python/Final_Project%20(1).ipynb) | June 2025 | PySpark, pandas, sql, ml, matplotlib | |
+| [🍿🎬 Movie Recommender System](https://github.com/lescer3/Pstat134-Movie-Recommender-System/blob/main/results/Movie%20Recommender%20System%20Project.pdf) | March 2025 | numpy, pandas, matplotlib, seaborn| My colleagues and I developed a movie recommendation system using data from The Movie Database (TMDb) database. We applied Python-based machine learning techniques to analyze user preferences and suggest relevant movies. |
 
 ### R
 | Link | Completion Date | Libraries/Tools | Project Description |
@@ -23,8 +29,3 @@
 | ---- | ----------------| ----------------| ------------------- |
 | [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/FinalProject_1.3.sql) | June 2025 | sql | Queried voter records from BigQuery using unions to calculate turnout trends by election year.|
 
-### Python
-| Link | Completion Date | Libraries/Tools | Project Description |
-| ---- | ----------------| ----------------| ------------------- |
-| [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/Python/Final_Project%20(1).ipynb) | June 2025 | PySpark, pandas, sql, ml, matplotlib | |
-| [🍿🎬 Movie Recommender System](https://github.com/lescer3/Pstat134-Movie-Recommender-System/blob/main/results/Movie%20Recommender%20System%20Project.pdf) | March 2025 | numpy, pandas, matplotlib, seaborn| My colleagues and I developed a movie recommendation system using data from The Movie Database (TMDb) database. We applied Python-based machine learning techniques to analyze user preferences and suggest relevant movies. |
