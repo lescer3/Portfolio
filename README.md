@@ -4,7 +4,7 @@
 [Picture Link](https://www.istockphoto.com/illustrations/woman-computer)
 
 ## Table of Contents
-- R
+- [R](https://github.com/lescer3/Portfolio/blob/main/README.md#r)
 - SQL
 - Python 
 
