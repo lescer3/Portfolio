@@ -7,7 +7,7 @@
 - [Python](https://github.com/lescer3/Portfolio/blob/main/README.md#Python) 
 - [R](https://github.com/lescer3/Portfolio/blob/main/README.md#r)
 - [SQL](https://github.com/lescer3/Portfolio/blob/main/README.md#sql)
-- Tableau
+- [Tableau](https://github.com/lescer3/Portfolio/blob/main/README.md#tableau)
 
 ### Python
 | Link | Completion Date | Libraries/Tools | Project Description |
@@ -31,4 +31,5 @@
 | [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/FinalProject_1.3.sql) | June 2025 | sql | Queried voter records from BigQuery using unions to calculate turnout trends by election year.|
 
 ### Tableau
-
+| Link | Completion Date | Libraries/Tools | Project Description|
+| -----| ----------------| ----------------| -------------------|
