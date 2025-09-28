@@ -33,4 +33,4 @@
 ### Tableau
 | Link | Completion Date | Libraries/Tools | Project Description|
 | -----| ----------------| ----------------| -------------------|
-| [👶🏼 TFR Dashboard](https://github.com/lescer3/TFR-IMR/blob/main/TFR%20Dashboard.pdf) | Sep 2025 | Tableau | Total Fertility Rate (TFR) Dashboard demonstrating TFR by state and the statistics on education, ethnicity, age groups, and health insurance of the mother's. |
+| [👶🏼 TFR Dashboard](https://github.com/lescer3/TFR-IMR/blob/main/TFR%20Dashboard.pdf) | Sep 2025 | Tableau | Total Fertility Rate (TFR) Dashboard demonstrating TFR by state and the statistics on the mothers' education, ethnicity, age groups, and health insurance. |
