@@ -12,7 +12,7 @@
 ### Python
 | Link | Completion Date | Libraries/Tools | Project Description |
 | ---- | ----------------| ----------------| ------------------- |
-| [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/Python/Final_Project%20(1).ipynb) | June 2025 | PySpark, pandas, sql, ml, matplotlib | My colleagues and I examined the national voter file for the US, focusing on the state of Washington. We were interested in uncovering what was causing disparity in voter participation, focusing on income and what characteristics had the largest effect on party vote percentage. |
+| [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/Python/Final_Project%20(1).ipynb) | June 2025 | PySpark, pandas, SQL, ml, matplotlib | My colleagues and I examined the national voter file for the US, focusing on the state of Washington. We were interested in uncovering what was causing disparity in voter participation, focusing on income and what characteristics had the largest effect on party vote percentage. |
 | [🍿🎬 Movie Recommender System](https://github.com/lescer3/Pstat134-Movie-Recommender-System/blob/main/results/Movie%20Recommender%20System%20Project.pdf) | March 2025 | numpy, pandas, matplotlib, seaborn| My colleagues and I developed a movie recommendation system using data from The Movie Database (TMDb) database. We applied Python-based machine learning techniques to analyze user preferences and suggest relevant movies. |
 
 ### R
@@ -28,7 +28,7 @@
 ### SQL
 | Link | Completion Date | Libraries/Tools | Project Description |
 | ---- | ----------------| ----------------| ------------------- |
-| [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/FinalProject_1.3.sql) | June 2025 | sql | Queried voter records from BigQuery using unions to calculate turnout trends by election year.|
+| [🗳️ Voter Demographics](https://github.com/lescer3/Voter-Demographics/blob/main/FinalProject_1.3.sql) | June 2025 | SQL | Queried voter records from BigQuery using unions to calculate turnout trends by election year.|
 
 ### Tableau
 | Link | Completion Date | Libraries/Tools | Project Description|
